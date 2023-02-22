@@ -48,6 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676758782710</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercicios condicionais terminados">
+      <created>1677104576279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677104576279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicios condicionais terminados" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios condicionais terminados" />
   </component>
 </project>
