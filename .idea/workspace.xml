@@ -55,11 +55,19 @@
       <option name="project" value="LOCAL" />
       <updated>1677104576279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="desafio condicional incluido">
+      <created>1677105783328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677105783328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercicios condicionais terminados" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios condicionais terminados" />
+    <MESSAGE value="desafio condicional incluido" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio condicional incluido" />
   </component>
 </project>
