@@ -32,5 +32,7 @@ public class Empregado {
     public double getSalarioMensal(){
         return salarioMensal;
     }
+
+
 }
 

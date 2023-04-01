@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49c718e2-ce49-4c64-af1d-5e9b1cebed0d" name="Changes" comment="">
+    <list default="true" id="49c718e2-ce49-4c64-af1d-5e9b1cebed0d" name="Changes" comment="exercicios lista 2 orientação a objetos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/orientobjetos/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/orientobjetos/Empregado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677628261041</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exercicios orientação a objetos">
+      <created>1678477891048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678477891048</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercicios orientação a objetos">
+      <created>1678478123818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678478123818</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lista exercicios">
+      <created>1678478341534</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678478341534</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +119,8 @@
     <MESSAGE value="exercicios sequenciais completados" />
     <MESSAGE value="exercicios loop iniciados" />
     <MESSAGE value="exercicios loop finalizados" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios loop finalizados" />
+    <MESSAGE value="exercicios orientação a objetos" />
+    <MESSAGE value="lista exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="lista exercicios" />
   </component>
 </project>
